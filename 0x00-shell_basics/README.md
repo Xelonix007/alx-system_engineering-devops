@@ -7,4 +7,4 @@ Display current directory contents Long format with user and group IDs displayed
 Create a script that creates a directory named my_first_directory in the /tmp/ directory
 Write a script that changes the working directory to the previous one
 a script that changes the working directory to the previous one.
- 
+ a script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory when we will run your script 
