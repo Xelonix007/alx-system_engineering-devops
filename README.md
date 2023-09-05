@@ -1,1 +1,1 @@
-0x00-shell_basics project
+0x02-shell_redirections
